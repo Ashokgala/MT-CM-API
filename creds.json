@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "insurancecmapi",
+  "private_key_id": "be6836d09d7f0b48c10c6218619f3bf056f3437e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxrCLq8LQqD+Dn\npxZ3dlfetV3x8YeheuqAPCwOyJZ7Rlz+wfd+SFUQRbUkAm7X8j+IqWI9TyDGxZ2K\nVmDlLRtK1qsnjyRMhJWMhmkrV6INgb5ljizI60N1MviYHT4IGDRzUmypzYuKCMBG\nrSoO6zXvCgX6ZpsTJg8Bp78ixittgXZGrKjzLy+3EHhZxN6mkfekqP5Zcreu74yp\nsi3tb4W1rXjh4EwHthpVTrfWDxdDtz42mDnhrvPMWMDfhiR+7CPpa2F2uIO8muKs\na9loqT6EJRmewtlCI7bxy/ugXCYqAYMuCu5k//+cZRp13oCgD68dwohJMUnWtrY+\nVYaioph3AgMBAAECggEASPLAM244yrxSP0qfMtVoJoyY0em1IlvxRE1wWXGKN3sg\nW4kQMM1J/7BfOzW0hP11kIrbRwjiEDq7AD2O8wmeFxAknc1rve8B5/yX2a/VXW5T\n2iaRxLyzqb8PyoTXH0Ow5ViGPQGjtTz6lQosJov0TPz0j2bpbOdHagqRs5lh40d/\nL2FPFjRWOvuAHO71iLnpyOUGkiIiEUM08nylTlsMtJ9dhcxxbWZdigER/E+lv5NA\nZoJ/hGRXxDWFFv5zz6PE4BbIOzjVOLQgnDTCvl8jcpS/+Gh3qL31ZUuPbDImYISP\nye+AmKnlrxLJA7he970mNwJzk160ifuNnrg+j/7uoQKBgQD4vcOKS/tojLNbH3Ms\nTVAtB3Ch3tK6OU2FoyvEm3dWnl8YquDTHGDF3/2DhqugyTTtq3CyET+jnkldPSL/\nMJlHpMeRTi7mgBq53/KPsR0HlE/Ta9cZ/9HYnbtFUyQ3MFlwS5ssW1MQNOy/2FYu\nyDsMwx8JGd6EsFNvZ8cJb7jlcwKBgQC223LRyRPE43zcc/twcHnmSroZDW/PTcbO\nYfUd+sfcvemyyM7rtyk7y3NDoiTXfVqL+DtzzrlA89Kj3gZW6RmLNgehQTm7NaNF\nrgQprrNuv4AoWjCqR2djOcKAQ9eDohAJ6u4AmYCAgD1nrsItO4j/x27q3WfuDZzb\nzdy4G03f7QKBgQDzOQNCcMe11JbwjFEfSb4TOcotzec6RxwBh6sdhXNs1FFimnxa\nkc4izsJi4MVj5DsIB3Kb+/fBct6D+GsHIytOfdbSw6NiqnL3u/6/+MzNA34G2tUr\nTBWSfbGHuSOZf4KFJrjl56rSFx5E/TJQbmQnN4haatxF3PDI564dEQy39wKBgQCq\nFMhhtSQ8OFSFQSQY26WmvM8ISmU7b16BzL+P2RlZixP6halhuoYR5hUaTZDzFtfH\n5WZ3O0s4zRGZ9gPzhvGJeQHzzZWDOkrZnxikJKklU95CqlElsTDLLIhrga7N80nz\nz57808qgu6dh7z0RkZTGRJw4vSPUWrkSAhNQ86SlqQKBgCbRooxQX6mpI7lPLYus\nxwR6LuRpTXwanUJJrd8LVf7y1Ht28zy1TyfYzuzdq1vYlKhJzzl4CC3PHnbKSIWM\nH1tbWesr/GpiTTPE4e716zFSZzgvgdY+8XHjbzYg0a0WKVGRCPWf/5GiftkkpqtL\nVJ3827+BKeDLqd6kLWjCaOek\n-----END PRIVATE KEY-----\n",
+  "client_email": "it-team-mumbai-theporter-in@insurancecmapi.iam.gserviceaccount.com",
+  "client_id": "109770555707881909065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/it-team-mumbai-theporter-in%40insurancecmapi.iam.gserviceaccount.com"
+}
